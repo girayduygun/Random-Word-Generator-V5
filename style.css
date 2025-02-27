@@ -61,7 +61,8 @@ button:hover {
 
 #meanings div {
     font-size: 18px;
-    color: #555;
+    font-weight: bold;
+    color: #333;
     margin: 10px 0;
 }
 
@@ -109,12 +110,12 @@ select:focus {
     z-index: 1000;
 }
 
-#toggleButton:hover {
+/* #toggleButton:hover {
     background-color: #fff;
     color: #007bff;
     border: 2px solid #007bff;
 }
-
+ */
 
 
 
